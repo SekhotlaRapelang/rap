@@ -6,10 +6,8 @@ package com.example.exercise1;
         import javafx.scene.control.Label;
 
 public class HelloController {
-
     @FXML
     private Label lable;
-
     int number = 0;
 
     @FXML
